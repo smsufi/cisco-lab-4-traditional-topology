@@ -28,4 +28,5 @@ KHL Branch cannot access internet
 KHL Branch will get data connectivity from BTCL through KHL Core Router
 
 There will be three tunnel from datacenter Core Router to Head Quarter, CTG Branch and KHL Branch
+
 ![Screenshot 2023-09-25 124807](https://github.com/smsufi/cisco-lab-4-traditional-topology/assets/39963872/f0672251-6d39-4188-9d34-85e9d76be46a)
